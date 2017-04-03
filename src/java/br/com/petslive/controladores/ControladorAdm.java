@@ -38,11 +38,11 @@ public class ControladorAdm {
        
         boolean a = true;
         
-        if(!ra.validaEmail(ad.getEmail())){
+        /*if(!ra.validaEmail(ad.getEmail)){
             a = false;
              FacesContext.getCurrentInstance().addMessage("formularioAlteraMedico:email",
                     new FacesMessage(FacesMessage.SEVERITY_ERROR, "Erro", "Email deve ser preenchido corretamente"));
-        }
+        }*/
         
 //        if(a){
 //        

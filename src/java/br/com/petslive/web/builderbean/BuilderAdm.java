@@ -5,7 +5,8 @@
  */
 package br.com.petslive.web.builderbean;
 
-import br.com.petslive.entidades.Administrador;
+
+import br.com.petslive.model.entidades.Administrador;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 

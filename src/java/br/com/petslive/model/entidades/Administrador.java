@@ -29,5 +29,16 @@ public class Administrador {
     private String email;
     private String senha;
 
+    public Administrador(String nome_adm, String cpf, String email, String senha) {
+       this.nome_adm = nome_adm;
+       this.cpf = cpf;
+       this.email = email;
+       this.senha = senha;
+    }
+    
+    public Administrador(){
+        
+    }
+
     
 }
