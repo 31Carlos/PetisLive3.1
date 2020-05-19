@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Be the Hero" src="https://github.com/caducastanha/PetsLive3.1/blob/master/web/resources/images/cima.jpg?raw=true"  width="700px" style="border-radius:20px;"/>
+    <img alt="Be the Hero" src="https://github.com/caducastanha/PetsLive3.1/blob/master/web/resources/images/cima.jpg?raw=true"  width="900px" style="border-radius:20px;"/>
 </h1>
 
 <h3 align="center" >
